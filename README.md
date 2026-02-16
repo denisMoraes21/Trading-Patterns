@@ -32,3 +32,7 @@ Um sistema que:
 # Pacotes necessários
 
 - Pistache: 0.5.9
+
+# Arquitetura API
+
+- MVC (Model-View-Controller)
