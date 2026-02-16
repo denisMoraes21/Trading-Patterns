@@ -28,3 +28,7 @@ Um sistema que:
 * Conecta com seu interesse em padrões gráficos
 
 ---
+
+# Pacotes necessários
+
+- Pistache: 0.5.9
