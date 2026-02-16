@@ -33,6 +33,10 @@ Um sistema que:
 
 - Pistache: 0.5.9
 
-# Arquitetura API
+# Padrão API
 
 - MVC (Model-View-Controller)
+
+# Padrão Database
+
+- Singleton

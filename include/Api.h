@@ -9,6 +9,7 @@ public:
 
     void init(size_t threads = 2);
     void start();
+    void stop();
 
 private:
     void setupRoutes();
